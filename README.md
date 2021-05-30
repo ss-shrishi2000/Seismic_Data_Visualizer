@@ -20,6 +20,6 @@ Overall Implementation Of:
 3. Generation of visual maps using Java code and the Unfolding Maps libraries.
 4. Creation and manipulation Graphical User Interfaces (GUIs)
 5. Used the Processing library in programs.
-6. Inheritance,Method Overloading,Method Overriding,Polymorpism.
+6. Inheritance , Method Overloading , Method Overriding , Polymorphism.
 7. Abstract Classes And Interfaces In Java.
 
