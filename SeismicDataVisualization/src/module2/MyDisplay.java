@@ -3,7 +3,7 @@ package module2;
 import processing.core.PApplet;
 
 /**
- * @author Sudharaka Palamakumbura
+ * @author Shrishti Singh
  *
  */
 public class MyDisplay extends PApplet {
