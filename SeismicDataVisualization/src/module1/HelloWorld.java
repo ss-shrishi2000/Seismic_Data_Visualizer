@@ -13,7 +13,7 @@ import de.fhpotsdam.unfolding.utils.MapUtils;
   * An application with two maps side-by-side zoomed in on different locations.
   * Author: UC San Diego Coursera Intermediate Programming team
   * @author Shrishti Singh
-  * Date: July 17, 2015
+  * Date: May 29,2021
   * */
 public class HelloWorld extends PApplet
 {
@@ -22,6 +22,7 @@ public class HelloWorld extends PApplet
 	 * Don't forget the import lines above. */
 
 	// You can ignore this.  It's to keep eclipse from reporting a warning
+	
 	private static final long serialVersionUID = 1L;
 
 	/** This is where to find the local tiles, for working without an Internet connection */
@@ -30,8 +31,7 @@ public class HelloWorld extends PApplet
 	// IF YOU ARE WORKING OFFLINE: Change the value of this variable to true
 	private static final boolean offline = false;
 	
-	/** The map we use to display our home town: La Jolla, CA */
-	UnfoldingMap map1;
+	// UnfoldingMap map1;
 	
 	/** The map you will use to display your home town */ 
 	UnfoldingMap map2;
