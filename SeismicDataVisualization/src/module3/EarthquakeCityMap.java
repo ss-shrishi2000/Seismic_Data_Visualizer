@@ -24,10 +24,11 @@ import parsing.ParseFeed;
 /** EarthquakeCityMap
  * An application with an interactive map displaying earthquake data.
  * Author: UC San Diego Intermediate Software Development MOOC team
- * @author Sudharaka Palamakumbura
- * Date: July 17, 2015
+ * @author Shrishti Singh
  * */
-public class EarthquakeCityMap extends PApplet {
+
+public class EarthquakeCityMap extends PApplet 
+{
 
 	// You can ignore this.  It's to keep eclipse from generating a warning.
 	private static final long serialVersionUID = 1L;
