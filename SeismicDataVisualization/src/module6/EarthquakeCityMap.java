@@ -22,8 +22,8 @@ import static javax.swing.JOptionPane.*;
 
 /** EarthquakeCityMap
  * An application with an interactive map displaying earthquake data.
- * Author:  Sudharaka Palamakumbura and UC San Diego Intermediate Software Development MOOC team
- * Date: July 17, 2015
+ * Author:  Shrishti Singh and UC San Diego Intermediate Software Development MOOC team
+ * Date: July 17,2017
  * */
 public class EarthquakeCityMap extends PApplet {
 	
@@ -62,11 +62,12 @@ public class EarthquakeCityMap extends PApplet {
 	// A List of country markers
 	private List<Marker> countryMarkers;
 	
-	// NEW IN MODULE 5
+	
 	private CommonMarker lastSelected;
 	private CommonMarker lastClicked;
 	
-	public void setup() {		
+	public void setup()
+	{		
 		// (1) Initializing canvas and map tiles
 		size(900, 700, OPENGL);
 		if (offline) {
