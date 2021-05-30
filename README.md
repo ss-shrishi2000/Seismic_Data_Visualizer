@@ -23,3 +23,5 @@ Overall Implementation Of:
 6. Inheritance , Method Overloading , Method Overriding , Polymorphism.
 7. Abstract Classes And Interfaces In Java.
 
+Project for the "Object Oriented Programming in Java" course by the University of California, San Diego in collaboration with Duke University.
+
