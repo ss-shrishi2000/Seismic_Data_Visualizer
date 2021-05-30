@@ -20,10 +20,10 @@ import processing.core.PApplet;
 /** EarthquakeCityMap
  * An application with an interactive map displaying earthquake data.
  * Author: UC San Diego Intermediate Software Development MOOC team
- * @author Sudharaka Palmakumbura
- * Date: July 17, 2015
+ * @author Shrishti Singh
  * */
-public class EarthquakeCityMap extends PApplet {
+public class EarthquakeCityMap extends PApplet 
+{
 	
 	// We will use member variables, instead of local variables, to store the data
 	// that the setUp and draw methods will need to access (as well as other methods)
@@ -79,7 +79,7 @@ public class EarthquakeCityMap extends PApplet {
 		// earthquakesURL = "test1.atom";
 		// earthquakesURL = "test2.atom";
 		
-		// WHEN TAKING THIS QUIZ: Uncomment the next line
+		
 		earthquakesURL = "quiz1.atom";
 		
 		
