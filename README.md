@@ -1,4 +1,4 @@
-# EarthQuake_Data_Visualization
+# Seismic_Data_Visualization
 To create this project, I worked with a package called Unfolding Maps, which is a library for interactive maps and geovisualizations.
 
 And what we're doing in this visualization is 
