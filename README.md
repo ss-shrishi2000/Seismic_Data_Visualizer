@@ -25,3 +25,5 @@ Overall Implementation Of:
 
 Project for the "Object Oriented Programming in Java" course by the University of California, San Diego in collaboration with Duke University.
 
+
+(![alt text](https://github.com/ss-shrishi2000/Seismic_Data_Visualization/blob/main/SeismicDataVisualization/OOP-S1.png))
