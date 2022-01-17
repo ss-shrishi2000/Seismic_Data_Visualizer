@@ -1,4 +1,4 @@
-# Seismic_Data_Visualization
+# Seismic_Data_Visualizer
 To create this project, I worked with a package called Unfolding Maps, which is a library in Java version 8 for interactive maps and geovisualizations.
 
 And what we're doing in this visualization is 
